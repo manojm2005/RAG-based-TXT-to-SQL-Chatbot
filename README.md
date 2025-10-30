@@ -27,7 +27,7 @@ This project demonstrates how **LLMs + RAG + SQL** can be combined for **enterpr
 | **RAG Vector Store**       | [ChromaDB](https://www.trychroma.com/)                  |
 | **Embeddings Model**       | SentenceTransformer (`all-MiniLM-L6-v2`)                |
 | **Database**               | MySQL (ClassicModels schema)                            |
-| **Frameworks / Libraries** | LangChain, SQLAlchemy, Altair, Pandas                   |
+| **Frameworks / Libraries** | LangChain, SQLAlchemy, Pandas                   |
 | **Environment**            | Python 3.11+                                            |
 
 ---
