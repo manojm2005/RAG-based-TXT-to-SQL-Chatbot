@@ -206,8 +206,8 @@ Interactive table visualization of top 10 customers.
 ## 🧑‍💻 Author
 
 **👨‍💻 MANOJ M**
-AI & ML Developer | Environment & Sustainability Enthusiast
-🌱 *Building intelligent, green, and data-driven solutions.*
+AI & ML Developer | AI&DS Student
+
 
 ---
 
