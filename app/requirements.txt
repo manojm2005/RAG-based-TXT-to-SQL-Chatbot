@@ -1,0 +1,10 @@
+streamlit
+chromadb
+sqlalchemy
+mysql-connector-python
+sentence-transformers
+langchain
+langchain-google-genai
+tiktoken
+python-dotenv
+pandas
